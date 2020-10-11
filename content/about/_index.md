@@ -1,5 +1,5 @@
 ---
-description: Hey, I'm Edna West
+description: Hey, I'm Amalia Tsiongas
 images:
 - /images/sample.jpg
 title: ABOUT
