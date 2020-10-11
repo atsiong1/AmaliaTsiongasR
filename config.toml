@@ -36,7 +36,7 @@ pygmentsCodeFences=true
 [params.sections]
   # Define how your sections will be called
   # when automatically pulled. For instance in the 404 page
-  post = "article"
+  posts = ""
   portfolio = "project"
 
 [params.sidebar]
